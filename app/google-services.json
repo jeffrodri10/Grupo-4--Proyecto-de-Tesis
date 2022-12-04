@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950168992215",
+    "project_id": "prueba-901bf",
+    "storage_bucket": "prueba-901bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950168992215:android:3b85c42fc267b2d4bcb392",
+        "android_client_info": {
+          "package_name": "com.proyecto.mejorar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950168992215-oc4l52c48irgkmfp66065dcu6lf8o0ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLwoZy5lu2qEbBt49QIRXea5cQSmRnYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950168992215-oc4l52c48irgkmfp66065dcu6lf8o0ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
